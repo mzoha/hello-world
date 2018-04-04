@@ -1,2 +1,3 @@
 # hello-world
-my hello world github repository
+hi everybody , 
+this is my hello world github repository
